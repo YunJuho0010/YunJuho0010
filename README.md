@@ -1,4 +1,5 @@
-<img src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png' alt='Hi' width="25"/> Hello! I'm **YUN JUHO**, a game developer with experience in MMORPG server (C++), game client, and live service development, working with C++, C#, GameMaker, Unreal 5, and Unity. I've shipped more than 5 programs, with a single game reaching over 30,000 downloads, and Revatale—an MMORPG I developed in my sophomore year of university—generated up to 7 million KRW in monthly revenue.
+<img src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png' alt='Hi' width="25"/> Hello! I'm **YUN JUHO**, a game developer with experience in MMORPG server (C++), game client, and live service development, working with C++, C#, GameMaker, Unreal 5, and Unity. I've shipped more than 5 programs, with a single game reaching over 30,000 downloads, and Revatale—an MMORPG I developed in my sophomore year of university—generated up to 7 million KRW in monthly revenue.<br>
+🎹 I play the piano as a hobby. I also took a chamber-music ensemble class as a liberal-arts course in university and performed in the ensemble.
 
 [yunjuho.com](https://yunjuho.com) · [0010dev@naver.com](mailto:0010dev@naver.com) · [github.com/YunJuho0010](https://github.com/YunJuho0010)
 

@@ -21,7 +21,7 @@
 **Activities & Awards**
 
 <!-- activities starts -->
-• 넥슨코리아 커리어 캠프 ['메토링'](https://maplestory.career.greetinghr.com/ko/intro) 4기 수료 (우수상)<br>• 넥슨코리아 메이플스토리 해커톤 ['메커톤'](https://www.youtube.com/watch?v=iJU3OCBnT3g) 1기 수료<br>• 넥슨코리아 대학생 게임잼 ['재밌넥'](https://blog.nexon.com/post/3082799) 3기 수료<br>• 광운대학교 게임제작 동아리 LEVEL UP<br>• 광운대학교 47대 총학생회 비상대책위원회 위원<br>• 광운대학교 정보융합학부 19학번 학년대표<br>• 인디사이드 게임 제작 대회 금상<br>• 멘사코리아 개발자 시그 '모개숲' 회원<br>• 한국 게임메이커 커뮤니티 'KGMC' STAFF<br>• 육군 안전문화 창작물 공모전 대상 (육군참모총장상)
+• 넥슨코리아 커리어 캠프 ['메토링'](https://maplestory.career.greetinghr.com/ko/intro) 4기 수료 (우수상)<br>• 넥슨코리아 메이플스토리 해커톤 ['메커톤'](https://www.youtube.com/watch?v=iJU3OCBnT3g) 1기 수료<br>• 넥슨코리아 대학생 게임잼 ['재밌넥'](https://blog.nexon.com/post/3082799) 3기 수료<br>• 광운대학교 게임제작 동아리 LEVEL UP<br>• 광운대학교 47대 총학생회 비상대책위원회 위원<br>• 광운대학교 정보융합학부 19학번 학년대표<br>• 인디사이드 게임 제작 대회 금상<br>• 멘사코리아 개발자 시그 '모개숲' 회원<br>• 한국 게임메이커 커뮤니티 ['KGMC'](https://cafe.naver.com/crazygm) STAFF<br>• 육군 안전문화 창작물 공모전 대상 (육군참모총장상)
 <!-- activities ends -->
 </td>
 </tr>
